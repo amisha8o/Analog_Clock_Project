@@ -42,6 +42,6 @@ Welcome to my **Analog Clock** project built using **HTML, CSS, and JavaScript**
  ┣ 📄 style.css
  ┗ 📄 script.js
 
- 🧭 Live Demo:
+ 🧭 Live Demo:   https://amisha8o.github.io/Analog_Clock_Project/
 
 
